@@ -1,4 +1,3 @@
-````markdown
 # Lab 01: Fundamentos de Git
 
 Este laboratório tem como objetivo introduzir na prática os conceitos fundamentais de controle de versão com **Git** que vimos na Aula 1 (usaremos Java como exemplo, mas serve para qualquer linguagem).
