@@ -147,3 +147,7 @@ Recupere a versão anterior (salva no último commit):
 git restore Application.java
 ```
 
+### Desafio Extra
+
+Tente visualizar suas branches e commits de forma interativa em: [Learn Git Branching](https://learngitbranching.js.org/?locale=pt_BR)
+
