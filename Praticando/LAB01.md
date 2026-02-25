@@ -146,6 +146,20 @@ Recupere a versão anterior (salva no último commit):
 ```bash
 git restore Application.java
 ```
+## 7. Tabela de Comandos e Parâmetros
+
+Abaixo, um resumo dos comandos fundamentais utilizados neste laboratório:
+
+| Comando | Descrição | Parâmetros Comuns |
+| :--- | :--- | :--- |
+| `git config` | Configura variáveis de ambiente | `--global user.name`, `--list` |
+| `git init` | Inicializa um novo repositório local | (Nenhum) |
+| `git status` | Exibe o estado atual dos arquivos | `-s` (formato curto) |
+| `git add` | Adiciona arquivos à área de preparação | `.` (todos), `[nome_arquivo]` |
+| `git commit` | Cria um novo ponto na história (foto) | `-m "mensagem"`, `--amend` |
+| `git log` | Exibe o histórico de commits realizados | `--oneline`, `--graph` |
+| `git restore` | Desfaz alterações no diretório de trabalho | `[nome_arquivo]` |
+| `git diff` | Mostra as diferenças entre os arquivos | `--staged` |
 
 ### Desafio Extra
 
