@@ -28,7 +28,7 @@ Capacitar os alunos a utilizarem o **Git** (ferramenta de controle de versão) e
 * **Aula 03 (Teórica):** Anatomia das Branches, Tipos de Merge e Resolução de Conflitos.
     * 📎 [Slides da Aula 03](A_SER_ADICIONADO)
 * **Aula 04 (Prática):** Viajando no tempo e lidando com o temido "Merge Conflict".
-    * 📝 [Ficha Prática: Lab 02 - Branches e Conflitos](A_SER_ADICIONADO)
+    * 📝 [Ficha Prática: Lab 02 - Branches e Conflitos](https://github.com/LaviniaBDantas/Minicurso-Git-PET/blob/main/Praticando/LAB02.md)
 
 
 
