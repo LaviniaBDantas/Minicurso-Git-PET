@@ -36,10 +36,7 @@ Capacitar os alunos a utilizarem o **Git** (ferramenta de controle de versão) e
 *Foco em trabalhar em equipe, enviar o código para a internet e fluxos de mercado.*
 
 * **Aula 05 (Teórica):** Repositórios Remotos, Push, Pull, Fetch e Git Flow.
-    * 📎 [Slides da Aula 05](A_SER_ADICIONADO)
-* **Aula 06 (Prática):** Sincronizando com o GitHub e Projeto Final.
-    * 📝 [Ficha Prática: Lab 03 - Colaboração Remota](A_SER_ADICIONADO)
-
+    * 📎 [Slides da Aula 05](https://github.com/LaviniaBDantas/Minicurso-Git-PET/blob/main/Aulas/Aula%203%20Minicurso%20Git%20%26%20GitHub.pdf)
 ---
 
 ## 🏆 Projeto Final (Entrega Obrigatória)
