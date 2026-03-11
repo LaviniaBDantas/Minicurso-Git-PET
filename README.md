@@ -44,18 +44,16 @@ Capacitar os alunos a utilizarem o **Git** (ferramenta de controle de versão) e
 
 ## 🏆 Projeto Final (Entrega Obrigatória)
 Para concluir o minicurso, você deverá criar e entregar um projeto prático aplicando os conceitos aprendidos.  
-**O Desafio:** Criar um repositório no GitHub contendo o seu **Portfólio Acadêmico/Currículo**.
+**O Desafio:** Criar um repositório no GitHub contendo um pequeno projeto acadêmico ou pessoal.
 
-1.  Crie um repositório no seu GitHub pessoal.
-2.  Clone-o para sua máquina local.
-3.  Crie uma branch chamada `conteudo` para adicionar os textos dos seus projetos.
-4.  Crie uma branch chamada `estilo` para melhorar a formatação (pode ser com CSS ou no próprio Markdown).
-5.  Faça o merge de ambas as branches na `main` (resolva possíveis conflitos).
-6.  Faça o **push** do resultado final para o GitHub.
+1. Crie um repositório no seu GitHub pessoal.
+2. Clone-o para sua máquina local.
+3. Trabalhe no projeto fazendo sempre commits, criando branchs novas e tentando aplicar todos os conhecimentos que vimos ao longo do curso.
+6. Faça merge, revert quando for preciso e lembre-se de dar o **push** do resultado final para o GitHub.
 
 ### 📥 Como enviar
 Copie o link do seu repositório finalizado no GitHub e envie através do formulário abaixo:  
-👉 [Link para o Google Forms de Entrega](A_SER_ADICIONADO)
+👉 [Link para o Forms de Entrega](https://forms.cloud.microsoft/r/cfdVeQS3mz)
 
 ---
-Desenvolvido com ☕ e 💻
+Desenvolvido com ☕ e 💻 por @laviniabdantas
