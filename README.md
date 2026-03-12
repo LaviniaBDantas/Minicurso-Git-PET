@@ -1,4 +1,4 @@
-# 🚀 Minicurso: Git & GitHub
+# 🚀 Minicurso
 
 Bem-vindos ao **Minicurso de Git e GitHub** promovido pelo PETSIMC!  
 Este repositório contém todo o material de apoio, slides e fichas de exercícios práticos que utilizaremos ao longo das nossas 3 semanas de curso.
